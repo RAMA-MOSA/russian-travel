@@ -1,0 +1,23 @@
+.cover__text{
+    color: white;
+    margin: 245px auto;
+    max-width: 560px;
+    text-align: center;
+    z-index: 3;
+}
+@media screen and (max-width:1100px) and (min-width:851px){
+    .cover__text{
+        margin: 195px auto;
+    }
+}
+@media screen and (max-width:850px) and (min-width:551px){
+    .cover__text{
+        margin: 115px auto;
+    }
+}
+@media screen and (max-width:550px){
+    .cover__text{
+        margin: 33px auto;
+        padding: 0 16px;
+    }
+}
