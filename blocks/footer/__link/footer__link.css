@@ -5,13 +5,15 @@
     line-height: 1.12;
     text-decoration: none;
     margin-right: 18px;
+    transition: opacity 0.5s linear;
 }
 @media screen and (max-width:720px){
     .footer__link{
         font-size: 24px;
         line-height: 1;
-        margin-bottom: 32px;
+        padding-bottom: 32px;
         margin-left: 16px;
+        display: block;
     }
 }
 .footer__link:hover{
