@@ -4,6 +4,8 @@
 ## Описание:
 "Путешествие по России" - это типовой однастраничный сайт про российский внутренний туризм.
 
+[Проектная работа на GitHub Pages](https://rama-mosa.github.io/russian-travel/)
+
 ## Функционал:
 * Адаптивный дизайн
 * Сложная сетка
@@ -17,6 +19,3 @@
 * File Structure and File Paths (Nested BEM)
 * Git
 * Figma
-
-## Ссылка на проект: 
-https://rama-mosa.github.io/russian-travel/
